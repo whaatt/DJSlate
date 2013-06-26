@@ -12,12 +12,12 @@ Mediocre Music Synthesis Using Kivy.
 
 ### Requirements
 
-- You must download a SoundFont to use DJ Slate.
-- It must exist in the same directory, and be named fluid.sf2.
+- A mediocre SoundFont has been included in this repo.
+- Simply replace fluid.sf2 if you wish to change it.
 - I recommend the Fluid R3 SoundFont, designed for FluidSynth.
 
 ### Demo
 
 - You can download an executable version of this.
 - Check my website, and I'll probably have it there.
-- This version includes the Fluid R3 SoundFont.
+- That version includes the Fluid R3 SoundFont.
