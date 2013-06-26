@@ -17,6 +17,7 @@ TODO:
 - Add option to have different descending scales.
 - Add some more settings.
 - Refactor code more nicely.
+- Use Xbox Kinect with this?
 
 ---------------------------------------------------------------------------------------------------------
 
