@@ -1,0 +1,39 @@
+User Guide:
+
+1. Click on DJSlate.exe to start the application.
+2. To toggle fullscreen mode, change the text of fullscreen.txt to either "YES" or "NO" without quotes.
+3. To escape fullscreen mode, simply hit the escape button.
+4. Have fun! This app is licensed under the Having Fun license, so you must have fun.
+5. If you can't seem to have fun, please let me know how I can improve this. Thanks!
+
+Warning: Don't modify midi.txt, and don't modify scales.txt unless you know what you're doing.
+The program may simply exit without notice if either of these files is corrupted.
+
+---------------------------------------------------------------------------------------------------------
+
+TODO:
+
+- Add continuous transitions between notes.
+- Add option to have different descending scales.
+- Add some more settings.
+- Refactor code more nicely.
+
+---------------------------------------------------------------------------------------------------------
+
+Nonsense:
+
+Built on Python 2.7 with Kivy, Fluidsynth, Mingus
+Please use GitHub to report issues/help out
+List of Questionable Crap I Did To Make This Work
+
+1. Download Mingus, install as module then copy folders to this for standalone
+2. Add pyfluidsynth.py etc.. to Mingus folder
+3. Change pyfluidsynth to look for fluidsynth.dll in program directory
+4. GET THE STINKIN' RIGHT VERSION OF FLUIDSYNTH.DLL. FOLLOW DIRECTIONS.
+5. Neglect the Kivy Language (.kv), which is probably a horrible idea.
+7. Waste a bunch of time fiddling with the layout
+8. Waste time fiddling with my program
+6. Attempt to do something legit based on my cursory Carnatic knowledge
+
+Thanks to Mingus and pyFluidSynth. Both amazing modules, really.
+Oh, and *Kivy* of course.

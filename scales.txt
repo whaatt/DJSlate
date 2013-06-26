@@ -1,0 +1,17 @@
+Major Western C D E F G A B
+Natural_Minor Western C D Eb F G Ab Bb
+Harmonic_Minor Western C D Eb F G Ab B
+Chromatic Western C C# D Eb E F F# G Ab A Bb B
+Pentatonic_Major Western C D E G A
+Pentatonic_Minor Western C Eb F G Bb
+Blues_Minor Western C Eb F F# G Bb
+Blues_Major Western C D Eb E G A
+Arabic Western C Db E F G Ab B
+Hungarian Western C D Eb F# G Ab B
+Persian Western C Db E F Gb Ab B
+Hamsadhvani Carnatic S R2 G3 P N3
+Revati Carnatic S R1 M1 P N2
+Kamavardani Carnatic S R1 G3 M2 P D1 N3
+Kalyani Carnatic S R2 G3 M2 P D2 N3
+Todi Carnatic S R1 G2 M1 P D1 N2
+Abhogi Carnatic S R2 G2 M1 D2
