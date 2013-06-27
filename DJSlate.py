@@ -4,6 +4,7 @@ from kivy.config import Config
 #allow users to set fullscreen mode or not
 fs = open('fullscreen.txt', 'r').read()
 if fs.lower() == 'yes': Config.set('graphics', 'fullscreen', 'auto')
+Config.set('kivy', 'window_icon', 'DJSlate.png') #set icon
 
 from kivy.lang import Builder
 from kivy.factory import Factory
@@ -190,7 +191,9 @@ class SlateWidget(Widget):
 	def setOff(self, pitch, offset):
 		return Note(int(pitch) + offset)
 		
-class DJSlate(App):	
+class DJSlate(App):
+	title = 'DJ Slate'
+	
 	def build(self):
 		global notesChange
 		global octaveSet
