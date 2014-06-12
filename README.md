@@ -1,6 +1,6 @@
 DJ Slate
 =============
-Mediocre Music Synthesis Using Kivy.
+Mediocre Music Synthesis Using Kivy
 
 - Written in Python 2.7.
 - Uses Kivy, Mingus, and FluidSynth modules.
